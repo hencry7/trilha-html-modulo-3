@@ -15,6 +15,14 @@ a {
     text-decoration: none;
 }
 
+hr {
+    margin-top: 0;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
 .azul {
     color: cornflowerblue;
 }
@@ -22,7 +30,6 @@ a {
 .vermelho {
     color: indianred;
 }
-
 
 .bar {
     background-color: #f9f9fb;
@@ -71,6 +78,14 @@ a {
     text-align: center;
     margin-left: 160px;
     width: 500px;
+    border-radius: 10px;
+    border: solid 1px whitesmoke;
+}
+
+.fig-2 {
+    margin-left: 270px;
+    border-radius: 10px;
+    border: solid 1px whitesmoke;
 }
 
 .drop-hover {
@@ -95,4 +110,12 @@ a {
 .drop a {
     text-decoration: underline;
     color: brown;
+}
+
+.drop {
+    margin: 5px 0;
+}
+
+.rece {
+    padding-left: 17.5px;
 }
